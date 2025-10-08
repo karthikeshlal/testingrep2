@@ -9,8 +9,8 @@ metadata:
   path: /
   home: Samples & Tutorials
 spec:
-- template: testfile
-  scheduledStartDate: 2025-10-08T09:00:00+05:30
+- template: testing1
+  scheduledStartDate: 2025-10-09T09:00:00+05:30
   phases:
   - phase: New Phase
   riskProfile: Default risk profile

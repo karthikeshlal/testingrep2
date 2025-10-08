@@ -1,6 +1,6 @@
 # Exported from:        http://xlrd-HVM-domU:5516/
 # Release version:      24.3.6
-# Date created:         Thu Oct 09 03:45:28 IST 2025
+# Date created:         Thu Oct 09 03:46:12 IST 2025
 
 ---
 apiVersion: xl-release/v1
@@ -16,3 +16,4 @@ spec:
   - Template_Sample Release Template.yaml
   - Template_Welcome to Release!.yaml
   - Template_testfile.yaml
+  - Template_testing1.yaml
